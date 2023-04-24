@@ -1,0 +1,40 @@
+#header {
+    background-color: rgb(16, 241, 113);
+    height: 75px;
+    margin-top: 0%;
+}
+#main {
+    background-color: aliceblue;
+    margin-top: 15px;
+}
+.main-h1 {
+    background-color: brown;
+    height: 300px;
+}
+.article1 {
+    background-color: aliceblue;
+    margin: 12px;
+    padding: 5px;
+}
+.article2 {
+    background-color: aliceblue;
+    margin: 12px;
+    padding: 5px;
+}
+.article3 {
+        background-color: aliceblue;
+    margin: 12px;
+    padding: 5px;
+}
+.aside-izquierdo {
+    background-color: rgb(200, 99, 21);
+    height: 300px;
+}
+.aside-derecho {
+    background-color: rgb(200, 99, 21);
+    height: 300px;
+}
+#footer {
+    background-color: rgb(228, 115, 241);
+    margin-top: 25px;
+}
